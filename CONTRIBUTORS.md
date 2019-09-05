@@ -24,6 +24,8 @@
 
 [@markg29](https://github.com/markg29)
 
+[@nicxzmiller](https://github.com/Nicxzmiller)
+
 [@Kallinicos](https://github.com/Kallinicos)
 
 [@jflores3531](https://github.com/jflores3531)
